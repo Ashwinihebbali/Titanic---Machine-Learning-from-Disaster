@@ -82,7 +82,7 @@ To submit:
 1. Go to [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic)
 2. Click "Make a submission"
 3. Upload `submission.csv`
-4. View leaderboard score
+4. View leaderboard score.
 
 ## Key Results
 

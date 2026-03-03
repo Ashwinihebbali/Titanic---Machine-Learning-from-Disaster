@@ -84,7 +84,7 @@ To submit:
 3. Upload `submission.csv`
 4. View leaderboard score.
 
-## Key Results
+## Key Resultss
 
 - Total predictions: 418
 - Survived (1): 156 passengers

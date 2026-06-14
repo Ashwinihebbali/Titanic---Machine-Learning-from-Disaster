@@ -4,7 +4,7 @@ Machine learning project predicting passenger survival on the Titanic using a tr
 
 ## Project Overview
 
-This project implements a machine learning model to predict whether passengers survived the Titanic disaster. The model is trained on historical passenger data and makes binary predictions (0 = did not survive, 1 = survived).
+This project implements a machine learning model to predict whether passengers survived the Titanic disaster. The model is trained on historical passenger data and makes binary predictions (0 = did not survive, 1 = survived)
 
 ## Files
 

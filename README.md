@@ -1,4 +1,4 @@
-# Titanic Dataset Modelb
+# Titanic Dataset Model
 
 Machine learning project predicting passenger survival on the Titanic using a trained classification model.
 
